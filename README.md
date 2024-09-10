@@ -2,6 +2,7 @@
 The eCommTouch (e-commerce touch) dataset can be used for touch-bassed authenitcation.<br>
 This dataset includes touch data from 105 users.
 
+You can download the dataset at [Releases](https://github.com/yamanalab/eCommTouch/releases).
 
 ## Data
 All data of eCommTouch is stored in the ```data``` folder.
