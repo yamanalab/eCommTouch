@@ -61,11 +61,12 @@ All programs for feature extraction are located in the ```src``` folder.
 
 ## Contributors
 - [Masashi Kudo](https://orcid.org/0000-0002-1150-3565)
-- Hayato Yamana
 - Tsubasa Takahashi
+- Isao Echizen
+- Hayato Yamana
 
 ## License
 - [MIT License](./LICENSE)
 
 ## Acknowledgements
-The research was supported by NII CRIS Joint Research 2022.
+The research was supported by ROIS NII Open Collaborative Research 2024-24S1003 and NII CRIS Joint Research 2022.
